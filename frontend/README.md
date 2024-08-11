@@ -119,7 +119,3 @@ The frontend application uses a variety of reusable components, including:
 ## Contributing
 
 Feel free to open issues or submit pull requests if you have any suggestions or improvements.
-
-## License
-
-This project is licensed under the MIT License.
