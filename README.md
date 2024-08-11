@@ -37,8 +37,8 @@ The frontend includes several pages like Dashboard, Home, Signin, Signup, Send M
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/yourusername/payments-app.git
-   cd payments-app
+   git clone https://github.com/mayankmg18/Payment_App.git
+   cd Payment_App
    ```
 
 2. **Install backend dependencies**:
