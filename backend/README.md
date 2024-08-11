@@ -32,7 +32,7 @@ Create a `.env` file in the root directory and add the necessary environment var
 
 ```plaintext
 PORT=3000
-DATABASE_URL=your_database_url
+MONGODB_URL=your_database_url
 JWT_SECRET=your_jwt_secret
 ```
 
