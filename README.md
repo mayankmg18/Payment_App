@@ -91,10 +91,6 @@ To test the backend and frontend applications, you can use tools like Postman (f
 
 We welcome contributions to the project. If you have any ideas or suggestions, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
 If you have any questions or need further assistance, please contact me.
